@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Lamball",
+    "type": "Normal",
+    "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+    "skills": ["Ram", "Wool Shield"],
+    "stats": {
+      "hp": 50,
+      "attack": 30,
+      "defense": 20,
+      "speed": 25
+    }
+  },
+  {
+    "id": 2,
+    "name": "Kitsun",
+    "type": "Fire",
+    "description": "สุนัขจิ้งจอกเพลิง มีพลังโจมตีสูงและรวดเร็ว",
+    "skills": ["Fireball", "Flame Dash"],
+    "stats": {
+      "hp": 70,
+      "attack": 55,
+      "defense": 35,
+      "speed": 60
+    }
+  },
+  {
+    "id": 3,
+    "name": "Pengullet",
+    "type": "Water",
+    "description": "เพนกวินน้ำแข็ง น่ารักแต่แอบซุ่มโจมตีเก่ง",
+    "skills": ["Water Gun", "Ice Shard"],
+    "stats": {
+      "hp": 65,
+      "attack": 40,
+      "defense": 50,
+      "speed": 30
+    }
+  }
+]
