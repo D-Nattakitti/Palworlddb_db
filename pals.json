@@ -1,0 +1,89 @@
+[
+    {
+        "id": -11,
+        "name": "Blue Slime #-11",
+        "type": "Water",
+        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster001_Blue_icon_normal.png"
+    },
+    {
+        "id": -10,
+        "name": "Cave Bat #-10",
+        "type": "Normal",
+        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster003_icon_normal.png"
+    },
+    {
+        "id": -9,
+        "name": "Demon Eye #-9",
+        "type": "Dark",
+        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaBoss001_Small_icon_normal.png"
+    },
+    {
+        "id": -8,
+        "name": "Enchanted Sword #-8",
+        "type": "Normal",
+        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster002_icon_normal.png"
+    },
+    {
+        "id": -7,
+        "name": "Eye of Cthulhu #-7",
+        "type": "Dark",
+        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaBoss001_icon_normal.png"
+    },
+    {
+        "id": -6,
+        "name": "Green Slime #-6",
+        "type": "Leaf",
+        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster001_icon_normal.png"
+    },
+    {
+        "id": -5,
+        "name": "Illuminant Bat #-5",
+        "type": "Normal",
+        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster003_Purple_icon_normal.png"
+    },
+    {
+        "id": -4,
+        "name": "Illuminant Slime #-4",
+        "type": "Normal",
+        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster001_Pink_icon_normal.png"
+    },
+    {
+        "id": -3,
+        "name": "Purple Slime #-3",
+        "type": "Dark",
+        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster001_Purple_icon_normal.png"
+    },
+    {
+        "id": -2,
+        "name": "Rainbow Slime #-2",
+        "type": "Normal",
+        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster001_Rainbow_icon_normal.png"
+    },
+    {
+        "id": -1,
+        "name": "Red Slime #-1",
+        "type": "Fire",
+        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster001_Red_icon_normal.png"
+    },
+    
+    {
+        "id": 1,
+        "name": "Blue Slime #-11",
+        "type": "Water",
+        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน"
+    },
+    {
+
+    }
+]
