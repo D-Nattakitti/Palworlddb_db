@@ -3,86 +3,165 @@
         "id": -11,
         "name": "Blue Slime #-11",
         "type": "Water",
-        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "description": "",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster001_Blue_icon_normal.png"
     },
     {
         "id": -10,
         "name": "Cave Bat #-10",
         "type": "Normal",
-        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "description": "",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster003_icon_normal.png"
     },
     {
         "id": -9,
         "name": "Demon Eye #-9",
         "type": "Dark",
-        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "description": "",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaBoss001_Small_icon_normal.png"
     },
     {
         "id": -8,
         "name": "Enchanted Sword #-8",
         "type": "Normal",
-        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "description": "",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster002_icon_normal.png"
     },
     {
         "id": -7,
         "name": "Eye of Cthulhu #-7",
         "type": "Dark",
-        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "description": "",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaBoss001_icon_normal.png"
     },
     {
         "id": -6,
         "name": "Green Slime #-6",
         "type": "Leaf",
-        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "description": "",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster001_icon_normal.png"
     },
     {
         "id": -5,
         "name": "Illuminant Bat #-5",
         "type": "Normal",
-        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "description": "",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster003_Purple_icon_normal.png"
     },
     {
         "id": -4,
         "name": "Illuminant Slime #-4",
         "type": "Normal",
-        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "description": "",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster001_Pink_icon_normal.png"
     },
     {
         "id": -3,
         "name": "Purple Slime #-3",
         "type": "Dark",
-        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "description": "",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster001_Purple_icon_normal.png"
     },
     {
         "id": -2,
         "name": "Rainbow Slime #-2",
         "type": "Normal",
-        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "description": "",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster001_Rainbow_icon_normal.png"
     },
     {
         "id": -1,
         "name": "Red Slime #-1",
         "type": "Fire",
-        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน",
+        "description": "",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_YakushimaMonster001_Red_icon_normal.png"
     },
     
     {
         "id": 1,
-        "name": "Blue Slime #-11",
-        "type": "Water",
-        "description": "Pal ขนปุยเหมือนแกะ ขี้อ้อนและอ่อนโยน"
+        "name": "Lamball #1",
+        "type": "Normal",
+        "description": "Big Floof",
+        "image": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SheepBall_icon_normal.webp"
     },
+    {
+        "id": 2,
+        "name": "Cattiva #2",
+        "type": "Normal",
+        "description": "The Cat's Pajamas",
+        "image": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_PinkCat_icon_normal.webp"
+    },
+    {
+        "id": 3,
+        "name": "Pengullet #3",
+        "type": "Normal",
+        "description": "Plump & Juicy",
+        "image": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_ChickenPal_icon_normal.webp"
+    },
+    {
+        "id": 4,
+        "name": "Lifmunk #4",
+        "type": "Leaf",
+        "description": "Coward of the Steppe",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Carbunclo_icon_normal.png"
+    },
+    {
+        "id": 5,
+        "name": "Foxparks #5",
+        "type": "Fire",
+        "description": "Revealer of Paths",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Kitsunebi_icon_normal.png"
+    },
+    {
+        "id": 501,
+        "name": "Foxparks Cryst #5B",
+        "type": "Ice",
+        "description": "Icy Blossom Voyager",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Kitsunebi_Ice_icon_normal.png"
+    },
+    {
+        "id": 6,
+        "name": "Fuack #6",
+        "type": "Water",
+        "description": "Rowdy Wave Ripper",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_BluePlatypus_icon_normal.png"
+    },
+    {
+        "id": 601,
+        "name": "Fuack Ignis #6B",
+        "type": ["Water", "Fire"],
+        "description": "Runaway Wave Rider",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_BluePlatypus_Fire_icon_normal.png"
+    },
+    {
+        "id": 7,
+        "name": "Sparkit #7",
+        "type": "Electricity",
+        "description": "Livewire Tabby",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_ElecCat_icon_normal.png"
+    },
+    {
+        "id": 8,
+        "name": "Tanzee #8",
+        "type": "Leaf",
+        "description": "Dexterous Primate",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Monkey_icon_normal.png"
+    },
+    {
+        "id": 9,
+        "name": "Rooby #9",
+        "type": "Fire",
+        "description": "Chief of the Herd",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FlameBambi_icon_normal.png"
+    },
+    {
+        "id": 10,
+        "name": "Rooby #10B",
+        "type": ["Water", "Ice"],
+        "description": "Ate Too Much",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Penguin_icon_normal.png"
+    },
+
     {
 
     }
