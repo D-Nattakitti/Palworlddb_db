@@ -161,6 +161,62 @@
         "description": "Ate Too Much",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Penguin_icon_normal.png"
     },
+    {
+        "id": 1001,
+        "name": "Pengullet Lux #10",
+        "type": ["Water", "Electricity"],
+        "description": "Had One Too Many",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Penguin_Electric_icon_normal.png"
+    },
+    {
+        "id": 11,
+        "name": "Penking #11",
+        "type": ["Water", "Ice"],
+        "description": "Pioneer of the Frozen Sea",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_CaptainPenguin_icon_normal.png"
+    },
+    {
+        "id": 1101,
+        "name": "Penking Lux #11B",
+        "type": ["Water", "Electricity"],
+        "description": "Pioneer of the Black",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_CaptainPenguin_Black_icon_normal.png"
+    },
+    {
+        "id": 12,
+        "name": "Jolthog #12",
+        "type": "Electricity",
+        "description": "Don't Touch!",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Hedgehog_icon_normal.png"
+    },
+    {
+        "id": 1201,
+        "name": "Jolthog Cryst #12B",
+        "type": "Ice",
+        "description": "Watch Your Feet!",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Hedgehog_Ice_icon_normal.png"
+    },
+    {
+        "id": 13,
+        "name": "Gumoss #13",
+        "type": ["Leaf", "Earth"],
+        "description": "Suddenly Transformed",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_PlantSlime_icon_normal.png"
+    },
+    {
+        "id": 14,
+        "name": "Vixy #14",
+        "type": "Normal",
+        "description": "Star of the Steppe",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_CuteFox_icon_normal.png"
+    },
+    {
+        "id": 15,
+        "name": "Hoocrates #15",
+        "type": "Dark",
+        "description": "Purveyor of Wisdom",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_WizardOwl_icon_normal.png"
+    },
 
     {
 
