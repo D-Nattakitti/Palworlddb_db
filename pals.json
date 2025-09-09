@@ -217,6 +217,41 @@
         "description": "Purveyor of Wisdom",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_WizardOwl_icon_normal.png"
     },
+    {
+        "id": 16,
+        "name": "Teafant #16",
+        "type": "Water",
+        "description": "Adorable Watering Can",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Ganesha_icon_normal.png"
+    },
+    {
+        "id": 17,
+        "name": "Depresso #17",
+        "type": "Dark",
+        "description": "Several Sleepless Nights Later",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_NegativeKoala_icon_normal.png"
+    },
+    {
+        "id": 18,
+        "name": "Cremis #18",
+        "type": "Normal",
+        "description": "Darling Furball",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_WoolFox_icon_normal.png"
+    },
+    {
+        "id": 19,
+        "name": "Daedream #19",
+        "type": "Dark",
+        "description": "Dream Eater",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_DreamDemon_icon_normal.png"
+    },
+    {
+        "id": 20,
+        "name": "Rushoar #20",
+        "type": "Earth",
+        "description": "Woodland Ruffian",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Boar_icon_normal.png"
+    },
 
     {
 
