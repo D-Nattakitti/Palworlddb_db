@@ -301,6 +301,62 @@
         "description": "Soaring Skyfish",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FlyingManta_icon_normal.png"
     },
+    {
+        "id": 2501,
+        "name": "Celaray Lux #25B",
+        "type": ["Water", "Electricity"],
+        "description": "Sky-Swimming Fish",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FlyingManta_Thunder_icon_normal.png"
+    },
+    {
+        "id": 26,
+        "name": "Direhowl #26",
+        "type": "Normal",
+        "description": "Hunter of the Steppe",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Garm_icon_normal.png"
+    },
+    {
+        "id": 27,
+        "name": "Tocotoco #27",
+        "type": "Normal",
+        "description": "Boom or Bust",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_ColorfulBird_icon_normal.png"
+    },
+    {
+        "id": 28,
+        "name": "Flopie #28",
+        "type": "Leaf",
+        "description": "Star of the Flower Beds",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FlowerRabbit_icon_normal.png"
+    },
+    {
+        "id": 29,
+        "name": "Mozzarina #29",
+        "type": "Normal",
+        "description": "Grade A Beef",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_CowPal_icon_normal.png"
+    },
+    {
+        "id": 30,
+        "name": "Bristla #30",
+        "type": "Leaf",
+        "description": "Thorny Rose",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LittleBriarRose_icon_normal.png"
+    },
+    {
+        "id": 31,
+        "name": "Gobfin #31",
+        "type": "Water",
+        "description": "Sea Thug",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SharkKid_icon_normal.png"
+    },
+    {
+        "id": 3101,
+        "name": "Gobfin Ignis #31B",
+        "type": "Fire",
+        "description": "Volcano Thug",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SharkKid_Fire_icon_normal.png"
+    },
 
     {
 
