@@ -357,6 +357,216 @@
         "description": "Volcano Thug",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SharkKid_Fire_icon_normal.png"
     },
+    {
+        "id": 32,
+        "name": "Hangyu #32",
+        "type": "Earth",
+        "description": "Bringer of Luck",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_WindChimes_icon_normal.png"
+    },
+    {
+        "id": 3201,
+        "name": "Hangyu Cryst #32B",
+        "type": "Ice",
+        "description": "Glacial Harbinger",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_WindChimes_Ice_icon_normal.png"
+    },
+    {
+        "id": 33,
+        "name": "Mossanda #33",
+        "type": "Leaf",
+        "description": "Guardian of the Forest",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_GrassPanda_icon_normal.png"
+    },
+    {
+        "id": 3301,
+        "name": "Mossanda Lux #33B",
+        "type": "Electricity",
+        "description": "Inheritor of the Storm",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_GrassPanda_Electric_icon_normal.png"
+    },
+    {
+        "id": 34,
+        "name": "Woolipop #34",
+        "type": "Normal",
+        "description": "Giant Cotton Candy",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SweetsSheep_icon_normal.png"
+    },
+    {
+        "id": 35,
+        "name": "Caprity #35",
+        "type": "Leaf",
+        "description": "Walking Farm",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_BerryGoat_icon_normal.png"
+    },
+    {
+        "id": 3501,
+        "name": "Caprity Noct #35B",
+        "type": "Dark",
+        "description": "Tainted Farm",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_BerryGoat_Dark_icon_normal.png"
+    },
+    {
+        "id": 36,
+        "name": "Melpaca #36",
+        "type": "Normal",
+        "description": "Pompous Shanks",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Alpaca_icon_normal.png"
+    },
+    {
+        "id": 37,
+        "name": "Eikthyrdeer #37",
+        "type": "Normal",
+        "description": "Protector of the Herd",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Deer_icon_normal.png"
+    },
+    {
+        "id": 3701,
+        "name": "Eikthyrdeer Terra #37B",
+        "type": "Earth",
+        "description": "Antler of Gold",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Deer_Ground_icon_normal.png"
+    },
+    {
+        "id": 38,
+        "name": "Nitewing #38",
+        "type":"Normal",
+        "description": "Wings of the Firmament",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_HawkBird_icon_normal.png"
+    },
+    {
+        "id": 39,
+        "name": "Ribbuny #39",
+        "type": "Normal",
+        "description": "Heart-Melting Smile",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_PinkRabbit_icon_normal.png"
+    },
+    {
+        "id": 3901,
+        "name": "Ribbuny Botan #39B",
+        "type": "Leaf",
+        "description": "Sparkling Smile",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_PinkRabbit_Grass_icon_normal.png"
+    },
+    {
+        "id": 40,
+        "name": "Incineram #40",
+        "type": ["Fire", "Dark"],
+        "description": "Hyena of the Wild",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Baphomet_icon_normal.png"
+    },
+    {
+        "id": 4001,
+        "name": "Incineram Noct #40B",
+        "type": "Dark",
+        "description": "Hyena of the Darkest Night",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Baphomet_Dark_icon_normal.png"
+    },
+    {
+        "id": 41,
+        "name": "Cinnamoth #41",
+        "type": "Leaf",
+        "description": "Butterfly Promenade",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_CuteButterfly_icon_normal.png"
+    },
+    {
+        "id": 42,
+        "name": "Arsox #42",
+        "type": "Fire",
+        "description": "Blazing Brute",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FlameBuffalo_icon_normal.png"
+    },
+    {
+        "id": 43,
+        "name": "Dumud #43",
+        "type": ["Earth", "Water"],
+        "description": "Perpetual Procrastinator",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LazyCatfish_icon_normal.png"
+    },
+    {
+        "id": 4301,
+        "name": "Dumud Gild #43B",
+        "type": ["Earth", "Water"],
+        "description": "Piece of Cake",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LazyCatfish_Gold_icon_normal.png"
+    },
+    {
+        "id": 44,
+        "name": "Cawgnito #44",
+        "type": "Dark",
+        "description": "Shadow-Cloaked Schemer",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_DarkCrow_icon_normal.png"
+    },
+    {
+        "id": 45,
+        "name": "Leezpunk #45",
+        "type": "Dark",
+        "description": "Self-Proclaimed Genius",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LizardMan_icon_normal.png"
+    },
+    {
+        "id": 4501,
+        "name": "Leezpunk Ignis #45B",
+        "type": "Fire",
+        "description": "Self-Proclaimed Fashionista",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LizardMan_Fire_icon_normal.png"
+    },
+    {
+        "id": 46,
+        "name": "Loupmoon #46",
+        "type": "Dark",
+        "description": "Enraptured by Moonlight",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Werewolf_icon_normal.png"
+    },
+    {
+        "id": 4601,
+        "name": "Loupmoon Cryst #46B",
+        "type": "Ice",
+        "description": "Enraptured by the Frozen Moonlight",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Werewolf_Ice_icon_normal.png"
+    },
+    {
+        "id": 47,
+        "name": "Galeclaw #47",
+        "type": "Normal",
+        "description": "Proud Courier",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Eagle_icon_normal.png"
+    },
+    {
+        "id": 48,
+        "name": "Robinquill #48",
+        "type": "Leaf",
+        "description": "Archer of the Forest",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_RobinHood_icon_normal.png"
+    },
+    {
+        "id": 4801,
+        "name": "Robinquill Terra #48B",
+        "type": ["Leaf", "Earth"],
+        "description": "Archer of the Forest",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_RobinHood_Ground_icon_normal.png"
+    },
+    {
+        "id": 49,
+        "name": "Gorirat #49",
+        "type": "Normal",
+        "description": "Jungle Punk",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Gorilla_icon_normal.png"
+    },
+    {
+        "id": 4901,
+        "name": "Gorirat Terra #49B",
+        "type": "Earth",
+        "description": "Up for a Brawl",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Gorilla_Ground_icon_normal.png"
+    },
+    {
+        "id": 50,
+        "name": "Beegarde #50",
+        "type": "Leaf",
+        "description": "Guardian Commander",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SoldierBee_icon_normal.png"
+    },
 
     {
 
