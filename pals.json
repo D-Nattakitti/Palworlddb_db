@@ -848,6 +848,139 @@
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FairyDragon_icon_normal.png"
     },
     {
+        "id": 81,
+        "name": "Kelpsea #81",
+        "type": "Water",
+        "description": "Child of the Deep",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Kelpie_icon_normal.png"
+    },
+    {
+        "id": 8101,
+        "name": "Kelpsea Ignis #81B",
+        "type": "Fire",
+        "description": "Child of Molten Depths",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Kelpie_Fire_icon_normal.png"
+    },
+    {
+        "id": 82,
+        "name": "Azurobe #82",
+        "type": ["Water", "Dragon"],
+        "description": "Lady of the Lake",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_BlueDragon_icon_normal.png"
+    },
+    {
+        "id": 8201,
+        "name": "Azurobe Cryst #82B",
+        "type": ["Ice", "Dragon"],
+        "description": "Lady of the Frozen Lake",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_BlueDragon_Ice_icon_normal.png"
+    },
+    {
+        "id": 83,
+        "name": "Cryolinx #83",
+        "type": "Ice",
+        "description": "Predator of Snowy Peaks",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_WhiteTiger_icon_normal.png"
+    },
+    {
+        "id": 8301,
+        "name": "Cryolinx Terra #83B",
+        "type": "Earth",
+        "description": "Predator of the Earth",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_WhiteTiger_Ground_icon_normal.png"
+    },
+    {
+        "id": 84,
+        "name": "Blazehowl #84",
+        "type": "Fire",
+        "description": "Crimson Goliath",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Manticore_icon_normal.png"
+    },
+    {
+        "id": 8401,
+        "name": "Blazehowl Noct #84B",
+        "type": ["Fire", "Dark"],
+        "description": "Inferno Goliath",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Manticore_Dark_icon_normal.png"
+    },
+    {
+        "id": 85,
+        "name": "Relaxaurus #85",
+        "type": ["Dragon", "Water"],
+        "description": "Gluttonous Dragon",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LazyDragon_icon_normal.png"
+    },
+    {
+        "id": 8501,
+        "name": "Relaxaurus Lux #85B",
+        "type": ["Dragon", "Electricity"],
+        "description": "Gluttonous Thunder Dragon",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LazyDragon_Electric_icon_normal.png"
+    },
+    {
+        "id": 86,
+        "name": "Broncherry #86",
+        "type": "Leaf",
+        "description": "Winds of Spring",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SakuraSaurus_icon_normal.png"
+    },
+    {
+        "id": 8601,
+        "name": "Broncherry Aqua #86B",
+        "type": ["Leaf", "Water"],
+        "description": "Waves of Summer",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SakuraSaurus_Water_icon_normal.png"
+    },
+    {
+        "id": 87,
+        "name": "Petallia #87",
+        "type": "Leaf",
+        "description": "Lady of the Flower Garden",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FlowerDoll_icon_normal.png"
+    },
+    {
+        "id": 88,
+        "name": "Reptyro #88",
+        "type": ["Fire", "Earth"],
+        "description": "Lava-Devouring Juggernaut",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_VolcanicMonster_icon_normal.png"
+    },
+    {
+        "id": 8801,
+        "name": "Reptyro Cryst #88B",
+        "type": ["Ice", "Earth"],
+        "description": "Ice-Breaking Juggernaut",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_VolcanicMonster_Ice_icon_normal.png"
+    },
+    {
+        "id": 89,
+        "name": "Kingpaca #89",
+        "type": "Normal",
+        "description": "Supreme Fluff Commander",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_KingAlpaca_icon_normal.png"
+    },
+    {
+        "id": 8901,
+        "name": "Kingpaca Cryst #89B",
+        "type": "Ice",
+        "description": "Azure Fluff Commander",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_KingAlpaca_Ice_icon_normal.png"
+    },
+    {
+        "id": 90,
+        "name": "Mammorest #90",
+        "type": ["Leaf", "Earth"],
+        "description": "King of the Forest",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_GrassMammoth_icon_normal.png"
+    },
+    {
+        "id": 9001,
+        "name": "Mammorest Cryst #90B",
+        "type": ["Ice", "Earth"],
+        "description": "Frozen King",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_GrassMammoth_Ice_icon_normal.png"
+    },
+    {
 
     }
 ]
