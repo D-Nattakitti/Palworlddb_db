@@ -652,6 +652,104 @@
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_ThunderDog_icon_normal.png"
     },
     {
+        "id": 61,
+        "name": "Kitsun #61",
+        "type": "Fire",
+        "description": "Guardian of the Azure Flame",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_AmaterasuWolf_icon_normal.png"
+    },
+    {
+        "id": 6101,
+        "name": "Kitsun Noct #61B",
+        "type": "Dark",
+        "description": "Guardian of the Dark Flame",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_AmaterasuWolf_Dark_icon_normal.png"
+    },
+    {
+        "id": 62,
+        "name": "Dazzi #62",
+        "type": "Electricity",
+        "description": "Born of the Storm",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_RaijinDaughter_icon_normal.png"
+    },
+    {
+        "id": 6201,
+        "name": "Dazzi Noct #62B",
+        "type": ["Dark", "Electricity"],
+        "description": "Born of the Thunderclouds",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_RaijinDaughter_Water_icon_normal.png"
+    },
+    {
+        "id": 63,
+        "name": "Lunaris #63",
+        "type": "Normal",
+        "description": "Extraterrestrial",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Mutant_icon_normal.png"
+    },
+    {
+        "id": 64,
+        "name": "Dinossom #64",
+        "type": ["Leaf", "Dragon"],
+        "description": "Guardian of Blossoming Gardens",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FlowerDinosaur_icon_normal.png"
+    },
+    {
+        "id": 6401,
+        "name": "Dinossom Lux #64B",
+        "type": ["Electricity", "Dragon"],
+        "description": "Guardian of Lightning",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FlowerDinosaur_Electric_icon_normal.png"
+    },
+    {
+        "id": 65,
+        "name": "Surfent #65",
+        "type": "Water",
+        "description": "The Ocean's Wrath",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Serpent_icon_normal.png"
+    },
+    {
+        "id": 6501,
+        "name": "Surfent Terra #65B",
+        "type": "Earth",
+        "description": "The Desert's Wrath",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Serpent_Ground_icon_normal.png"
+    },
+    {
+        "id": 66,
+        "name": "Maraith #66",
+        "type": "Dark",
+        "description": "Messenger of Death",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_GhostBeast_icon_normal.png"
+    },
+    {
+        "id": 67,
+        "name": "Digtoise #67",
+        "type": "Earth",
+        "description": "Drilling Machine",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_DrillGame_icon_normal.png"
+    },
+    {
+        "id": 68,
+        "name": "Tombat #68",
+        "type": "Dark",
+        "description": "Trickster",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_CatBat_icon_normal.png"
+    },
+    {
+        "id": 69,
+        "name": "Lovander #69",
+        "type": "Normal",
+        "description": "Pal on the Prowl",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_PinkLizard_icon_normal.png"
+    },
+    {
+        "id": 70,
+        "name": "Flambelle #70",
+        "type": "Fire",
+        "description": "Molten Daughter",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LavaGirl_icon_normal.png"
+    },
+    {
 
     }
 ]
