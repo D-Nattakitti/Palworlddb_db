@@ -750,6 +750,104 @@
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LavaGirl_icon_normal.png"
     },
     {
+        "id": 71,
+        "name": "Vanwyrm #71",
+        "type": ["Fire", "Dark"],
+        "description": "Aerial Marauder",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_BirdDragon_icon_normal.png"
+    },
+    {
+        "id": 7101,
+        "name": "Vanwyrm Cryst #71B",
+        "type": ["Ice", "Dark"],
+        "description": "Marauder of Frozen Skies",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_BirdDragon_Ice_icon_normal.png"
+    },
+    {
+        "id": 72,
+        "name": "Bushi #72",
+        "type": "Fire",
+        "description": "Vagrant Warrior",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Ronin_icon_normal.png"
+    },
+    {
+        "id": 7201,
+        "name": "Bushi Noct #72B",
+        "type": ["Fire", "Dark"],
+        "description": "Samurai of Darkness",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Ronin_Dark_icon_normal.png"
+    },
+    {
+        "id": 73,
+        "name": "Beakon #73",
+        "type": "Electricity",
+        "description": "Wings of Thunder",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_ThunderBird_icon_normal.png"
+    },
+    {
+        "id": 74,
+        "name": "Ragnahawk #74",
+        "type": "Fire",
+        "description": "Wings of Inferno",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_RedArmorBird_icon_normal.png"
+    },
+    {
+        "id": 75,
+        "name": "Katress #75",
+        "type": "Dark",
+        "description": "Phantasmal Feline",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_CatMage_icon_normal.png"
+    },
+    {
+        "id": 7501,
+        "name": "Katress Ignis #75B",
+        "type": ["Dark", "Fire"],
+        "description": "Fire Licked Feline",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_CatMage_Fire_icon_normal.png"
+    },
+    {
+        "id": 76,
+        "name": "Wixen #76",
+        "type": "Fire",
+        "description": "Fire Licked Furball",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FoxMage_icon_normal.png"
+    },
+    {
+        "id": 7601,
+        "name": "Wixen Noct #76B",
+        "type": ["Fire", "Dark"],
+        "description": "Phantasmal Furball",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FoxMage_Dark_icon_normal.png"
+    },
+    {
+        "id": 77,
+        "name": "Verdash #77",
+        "type": "Leaf",
+        "description": "Gale of the Forest",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_GrassRabbitMan_icon_normal.png"
+    },
+    {
+        "id": 78,
+        "name": "Vaelet #78",
+        "type": "Leaf",
+        "description": "Voice of the Violets",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_VioletFairy_icon_normal.png"
+    },
+    {
+        "id": 79,
+        "name": "Sibelyx #79",
+        "type": "Ice",
+        "description": "Pallid Lady",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_WhiteMoth_icon_normal.png"
+    },
+    {
+        "id": 80,
+        "name": "Elphidran #80",
+        "type": "Dragon",
+        "description": "Gentle Sky Dragon",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FairyDragon_icon_normal.png"
+    },
+    {
 
     }
 ]
