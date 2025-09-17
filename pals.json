@@ -567,7 +567,90 @@
         "description": "Guardian Commander",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SoldierBee_icon_normal.png"
     },
-
+    {
+        "id": 51,
+        "name": "Elizabee #51",
+        "type": "Leaf",
+        "description": "Empress of the Hive",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_QueenBee_icon_normal.png"
+    },
+    {
+        "id": 52,
+        "name": "Grintale #52",
+        "type": "Normal",
+        "description": "Marshmallow Body",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_NaughtyCat_icon_normal.png"
+    },
+    {
+        "id": 53,
+        "name": "Swee #53",
+        "type": "Ice",
+        "description": "Curious Floof",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_MopBaby_icon_normal.png"
+    },
+    {
+        "id": 54,
+        "name": "Sweepa #54",
+        "type": "Ice",
+        "description": "King of the Floof",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_MopKing_icon_normal.png"
+    },
+    {
+        "id": 55,
+        "name": "Chillet #55",
+        "type": ["Ice", "Dragon"],
+        "description": "Dancer on the Steppe",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_WeaselDragon_icon_normal.png"
+    },
+    {
+        "id": 5501,
+        "name": "Chillet Ignis #55B",
+        "type": ["Fire", "Dragon"],
+        "description": "Cherry Blossom Dancer",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_WeaselDragon_Fire_icon_normal.png"
+    },
+    {
+        "id": 56,
+        "name": "Univolt #56",
+        "type": "Electricity",
+        "description": "Swift Deity",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Kirin_icon_normal.png"
+    },
+    {
+        "id": 57,
+        "name": "Foxcicle #57",
+        "type": "Ice",
+        "description": "Claws of Ice",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceFox_icon_normal.png"
+    },
+    {
+        "id": 58,
+        "name": "Pyrin #58",
+        "type": "Fire",
+        "description": "Steed of Flames",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FireKirin_icon_normal.png"
+    },
+    {
+        "id": 5801,
+        "name": "Pyrin Noct #58B",
+        "type": ["Fire", "Dark"],
+        "description": "Steed of Darkness",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FireKirin_Dark_icon_normal.png"
+    },
+    {
+        "id": 59,
+        "name": "Reindrix #59",
+        "type": "Ice",
+        "description": "Frosthorn Beast",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceDeer_icon_normal.png"
+    },
+    {
+        "id": 60,
+        "name": "Rayhound #60",
+        "type": "Electricity",
+        "description": "Electro-Charged Zoomies",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_ThunderDog_icon_normal.png"
+    },
     {
 
     }
