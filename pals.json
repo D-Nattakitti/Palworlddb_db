@@ -981,6 +981,125 @@
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_GrassMammoth_Ice_icon_normal.png"
     },
     {
+        "id": 91,
+        "name": "Wumpo #91",
+        "type": "Ice",
+        "description": "Guardian of the Snowy Mountain",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Yeti_icon_normal.png"
+    },
+    {
+        "id": 9101,
+        "name": "Wumpo Botan #91B",
+        "type": "Leaf",
+        "description": "Guardian of the Grassy Fields",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Yeti_Grass_icon_normal.png"
+    },
+    {
+        "id": 92,
+        "name": "Warsect #92",
+        "type": ["Earth", "Leaf"],
+        "description": "Unyielding Colossus",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_HerculesBeetle_icon_normal.png"
+    },
+    {
+        "id": 9201,
+        "name": "Warsect Terra #92B",
+        "type": "Earth",
+        "description": "Golden Armor Warrior",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_HerculesBeetle_Ground_icon_normal.png"
+    },
+    {
+        "id": 93,
+        "name": "Fenglope #93",
+        "type": "Normal",
+        "description": "Drifting Cloud",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FengyunDeeper_icon_normal.png"
+    },
+    {
+        "id": 9301,
+        "name": "Fenglope Lux #93B",
+        "type": "Electricity",
+        "description": "Drifting Thundercloud",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_FengyunDeeper_Electric_icon_norma.png"
+    },
+    {
+        "id": 94,
+        "name": "Felbat #94",
+        "type": "Dark",
+        "description": "Gloom-Shrouded Bloodsucker",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_CatVampire_icon_normal.png"
+    },
+    {
+        "id": 95,
+        "name": "Quivern #95",
+        "type": "Dragon",
+        "description": "Snow-White Soarer",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SkyDragon_icon_normal.png"
+    },
+    {
+        "id": 9501,
+        "name": "Quivern Botan #95B",
+        "type": ["Dragon", "Leaf"],
+        "description": "Evergreen Flyer",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SkyDragon_Grass_icon_normal.png"
+    },
+    {
+        "id": 96,
+        "name": "Blazamut #96",
+        "type": "Fire",
+        "description": "Cursed Tyrant",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_KingBahamut_icon_normal.png"
+    },
+    {
+        "id": 9601,
+        "name": "Blazamut Ryu #96B",
+        "type": ["Dragon","Fire"],
+        "description": "Incarnation of the Eternal Flame",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_KingBahamut_Dragon_icon_normal.png"
+    },
+    {
+        "id": 97,
+        "name": "Helzephyr #97",
+        "type": "Dark",
+        "description": "Wings of The Underworld",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_HadesBird_icon_normal.png"
+    },
+    {
+        "id": 9701,
+        "name": "Helzephyr Lux #97B",
+        "type": ["Dark", "Electricity"],
+        "description": "Wings of Thunder",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_HadesBird_Electric_icon_normal.png"
+    },
+    {
+        "id": 98,
+        "name": "Astegon #98",
+        "type": ["Dragon", "Dark"],
+        "description": "Monarch of the Steel Dragon",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_BlackMetalDragon_icon_normal.png"
+    },
+    {
+        "id": 99,
+        "name": "Menasting #99",
+        "type": ["Dark", "Earth"],
+        "description": "Unstoppable Stinger",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_DarkScorpion_icon_normal.png"
+    },
+    {
+        "id": 9901,
+        "name": "Menasting Terra #99B",
+        "type": "Earth",
+        "description": "Gold-Piercing Spear",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_DarkScorpion_Ground_icon_normal.png"
+    },
+    {
+        "id": 100,
+        "name": "Anubis #100",
+        "type": "Earth",
+        "description": "Guardian of the Dark Sun",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Anubis_icon_normal.png"
+    },
+    {
 
     }
 ]
