@@ -1100,6 +1100,111 @@
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Anubis_icon_normal.png"
     },
     {
+        "id": 101,
+        "name": "Jormuntide #101",
+        "type": ["Dragon", "Water"],
+        "description": "Emperor of the Sea",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Umihebi_icon_normal.png"
+    },
+    {
+        "id": 10101,
+        "name": "Jormuntide Ignis #101B",
+        "type": ["Dragon", "Fire"],
+        "description": "Volcanic Emperor",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Umihebi_Fire_icon_normal.png"
+    },
+    {
+        "id": 102,
+        "name": "Suzaku #102",
+        "type": "Earth",
+        "description": "Ruler of the Crimson Dawn",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Suzaku_icon_normal.png"
+    },
+    {
+        "id": 10201,
+        "name": "Suzaku Aqua #102B",
+        "type": "Water",
+        "description": "Ruler of the Cobalt Dusk",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Suzaku_Water_icon_normal.png"
+    },
+    {
+        "id": 103,
+        "name": "Grizzbolt #103",
+        "type": "Electricity",
+        "description": "Claws of Lightningr",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_ElecPanda_icon_normal.png"
+    },
+    {
+        "id": 104,
+        "name": "Lyleen #104",
+        "type": "Leaf",
+        "description": "Lily Empress",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LilyQueen_icon_normal.png"
+    },
+    {
+        "id": 10401,
+        "name": "Lyleen Noct #104B",
+        "type": "Dark",
+        "description": "Empress of the Abyss",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LilyQueen_Dark_icon_normal.png"
+    },
+    {
+        "id": 105,
+        "name": "Faleris #105",
+        "type": "Fire",
+        "description": "Sentinel of Dawn",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Horus_icon_normal.png"
+    },
+    {
+        "id": 10501,
+        "name": "Faleris Aqua #105B",
+        "type": "Water",
+        "description": "Sentinel of the Tides",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Horus_Water_icon_normal.png"
+    },
+    {
+        "id": 106,
+        "name": "Orserk #106",
+        "type": ["Dragon", "Electricity"],
+        "description": "Roaring Thunder",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_ThunderDragonMan_icon_normal.png"
+    },
+    {
+        "id": 107,
+        "name": "Shadowbeak #107",
+        "type": "Dark",
+        "description": "Unknown Life Form",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_BlackGriffon_icon_normal.png"
+    },
+    {
+        "id": 108,
+        "name": "Paladius #108",
+        "type": "Normal",
+        "description": "Holy Knight of Legend", 
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SaintCentaur_icon_normal.png"
+    },
+    {
+        "id": 109,
+        "name": "Necromus #109",
+        "type": "Dark",
+        "description": "Dark Knight of Legend",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_BlackCentaur_icon_normal.png"
+    },
+    {
+        "id": 110,
+        "name": "Frostallion #110",
+        "type": "Ice",
+        "description": "Legendary Steed of Ice",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceHorse_icon_normal.png"
+    },
+    {
+        "id": 11001,
+        "name": "Frostallion Noct #110B",
+        "type": "Dark",
+        "description": "Legendary Steed of Darkness",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceHorse_Dark_icon_normal.png"
+    },
+    {
 
     }
 ]
