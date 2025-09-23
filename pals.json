@@ -1205,6 +1205,98 @@
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceHorse_Dark_icon_normal.png"
     },
     {
+        "id": 111,
+        "name": "Jetragon #111",
+        "type": "Dragon",
+        "description": "Legendary Celestial Dragon",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_JetDragon_icon_normal.png"
+    },
+    {
+        "id": 112,
+        "name": "Bellanoir #112",
+        "type": "Dark",
+        "description": "Eclipsed Siren",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_NightLady_icon_normal.png"
+    },
+    {
+        "id": 11201,
+        "name": "Bellanoir Libero #112B",
+        "type": "Dark",
+        "description": "Twilight Siren",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_NightLady_Dark_icon_normal.png"
+    },
+    {
+        "id": 113,
+        "name": "Selyne #113",
+        "type": ["Dark", "Normal"],
+        "description": "Crescent of the Darkest Night",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_MoonQueen_icon_normal.png"
+    },
+    {
+        "id": 114,
+        "name": "Croajiro #114",
+        "type": "Water",
+        "description": "Harakiri Master",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_KendoFrog_icon_normal.png"
+    },
+    {
+        "id": 11401,
+        "name": "Croajiro Noct #114B",
+        "type": ["Water", "Dark"],
+        "description": "Natural Born Killer",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_KendoFrog_Dark_icon_normal.png"
+    },
+    {
+        "id": 115,
+        "name": "Lullu #115",
+        "type": "Leaf",
+        "description": "Primal Source of Hay Fever",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LeafPrincess_icon_normal.png"
+    },
+    {
+        "id": 116,
+        "name": "Shroomer #116",
+        "type": "Leaf",
+        "description": "Creeping Mushroom",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_MushroomDragon_icon_normal.png"
+    },
+    {
+        "id": 11601,
+        "name": "Shroomer Noct #116B",
+        "type": ["Leaf", "Dark"],
+        "description": "Dangerous Mushroom",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_MushroomDragon_Dark_icon_normal.png"
+    },
+    {
+        "id": 117,
+        "name": "Kikit #117",
+        "type": "Earth",
+        "description": "Armored to the Teeth",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SmallArmadillo_icon_normal.png"
+    },
+    {
+        "id": 118,
+        "name": "Sootseer #118",
+        "type": ["Dark", "Fire"],
+        "description": "Flickering Flame",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_CandleGhost_icon_normal.png"
+    },
+    {
+        "id": 119,
+        "name": "Prixter #119",
+        "type": ["Dark", "Earth"],
+        "description": "Bad Boy",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_ScorpionMan_icon_normal.png"
+    },
+    {
+        "id": 120,
+        "name": "Knocklem #120",
+        "type": "Earth",
+        "description": "Suit of Armor",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_WingGolem_icon_normal.png"
+    },
+
+    {
 
     }
 ]
