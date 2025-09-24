@@ -1435,159 +1435,139 @@
         "description": "Guardian Beast of Twilight",
         "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_GoldenHorse_icon_normal.png"
     },
-  {
-    id: 141,
-    name: "Herbil #141",
-    type: ["Leaf", "Normal"],
-    level: 1,
-    description: "Percussive Maintenance",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LeafMomonga_icon_normal.png"
-  },
-  {
-    id: 142,
-    name: "Icelyn #142",
-    type: "Ice",
-    level: 1,
-    description: "Icy Smile",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceWitch_icon_normal.png"
-  },
-  {
-    id: 143,
-    name: "Frostplume #143",
-    type: "Ice",
-    level: 1,
-    description: "Snowlaced Feather Mantle",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SnowPeafowl_icon_normal.png"
-  },
-  {
-    id: 144,
-    name: "Palumba #144",
-    type: "Leaf",
-    level: 1,
-    description: "No Dance, No Life",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_TropicalOstrich_icon_normal.png"
-  },
-  {
-    id: 145,
-    name: "Braloha #145",
-    type: ["Leaf", "Earth"],
-    level: 1,
-    description: "Ancient Bloombringer",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Plesiosaur_icon_normal.png"
-  },
-  {
-    id: 146,
-    name: "Munchill #146",
-    type: ["Ice", "Water"],
-    level: 1,
-    description: "Walking Refrigerator",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceCrocodile_icon_normal.png"
-  },
-  {
-    id: 147,
-    name: "Polapup #147",
-    type: ["Ice", "Water"],
-    level: 1,
-    description: "Idol on Ice",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceSeal_icon_normal.png"
-  },
-  {
-    id: 148,
-    name: "Turtacle #148",
-    type: "Water",
-    level: 1,
-    description: "Mini Fortress",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_TentacleTurtle_icon_normal.png"
-  },
-  {
-    id: 148_1,
-    name: "Turtacle Terra #148B",
-    type: ["Water", "Earth"],
-    level: 1,
-    description: "Golden Fortress",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_TentacleTurtle_Ground_icon_normal.png"
-  },
-  {
-    id: 149,
-    name: "Jellroy #149",
-    type: ["Water", "Dark"],
-    level: 1,
-    description: "Shade Drifter",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_JellyfishGhost_icon_normal.png"
-  },
-  {
-    id: 150,
-    name: "Jelliette #150",
-    type: "Water",
-    level: 1,
-    description: "Sunlight Drifter",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_JellyfishFairy_icon_normal.png"
-  },
-  {
-    id: 151,
-    name: "Gloopie #151",
-    type: ["Water", "Dark"],
-    level: 1,
-    description: "Trickster of the Sea",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_OctopusGirl_icon_normal.png"
-  },
-  {
-    id: 152,
-    name: "Finsider #152",
-    type: "Water",
-    level: 1,
-    description: "Eyes from the Abyss",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_StuffedShark_icon_normal.png"
-  },
-  {
-    id: 152_1,
-    name: "Finsider Ignis #152B",
-    type: ["Water", "Fire"],
-    level: 1,
-    description: "Eyes from the Flames",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_StuffedShark_Fire_icon_normal.png"
-  },
-  {
-    id: 153,
-    name: "Ghangler #153",
-    type: ["Dark", "Water"],
-    level: 1,
-    description: "Temptation in the Deep",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_GhostAnglerfish_icon_normal.png"
-  },
-  {
-    id: 153_1,
-    name: "Ghangler Ignis #153B",
-    type: ["Fire", "Water"],
-    level: 1,
-    description: "Longing in the Deep",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_GhostAnglerfish_Fire_icon_normal.png"
-  },
-  {
-    id: 154,
-    name: "Whalaska #154",
-    type: ["Ice", "Water"],
-    level: 1,
-    description: "Nice Ice Lance",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceNarwhal_icon_normal.png"
-  },
-  {
-    id: 154_1,
-    name: "Whalaska Ignis #154B",
-    type: ["Ice", "Fire"],
-    level: 1,
-    description: "Nice Crimson Lance",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceNarwhal_Fire_icon_normal.png"
-  },
-  {
-    id: 155,
-    name: "Neptilius #155",
-    type: "Water",
-    level: 1,
-    description: "Legend of the Seas",
-    image: "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_PoseidonOrca_icon_normal.png"
-  },
-
+    {
+        "id": 141,
+        "name": "Herbil #141",
+        "type": ["Leaf", "Normal"],
+        "description": "Percussive Maintenance",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_LeafMomonga_icon_normal.png"
+    },
+    {
+        "id": 142,
+        "name": "Icelyn #142",
+        "type": "Ice",
+        "description": "Icy Smile",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceWitch_icon_normal.png"
+    },
+    {
+        "id": 143,
+        "name": "Frostplume #143",
+        "type": "Ice",
+        "description": "Snowlaced Feather Mantle",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_SnowPeafowl_icon_normal.png"
+    },
+    {
+        "id": 144,
+        "name": "Palumba #144",
+        "type": "Leaf",
+        "description": "No Dance, No Life",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_TropicalOstrich_icon_normal.png"
+    },
+    {
+        "id": 145,
+        "name": "Braloha #145",
+        "type": ["Leaf", "Earth"],
+        "description": "Ancient Bloombringer",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_Plesiosaur_icon_normal.png"
+    },
+    {
+        "id": 146,
+        "name": "Munchill #146",
+        "type": ["Ice", "Water"],
+        "description": "Walking Refrigerator",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceCrocodile_icon_normal.png"
+    },
+    {
+        "id": 147,
+        "name": "Polapup #147",
+        "type": ["Ice", "Water"],
+        "description": "Idol on Ice",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceSeal_icon_normal.png"
+    },
+    {
+        "id": 148,
+        "name": "Turtacle #148",
+        "type": "Water",
+        "description": "Mini Fortress",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_TentacleTurtle_icon_normal.png"
+    },
+    {
+        "id": 14801,
+        "name": "Turtacle Terra #148B",
+        "type": ["Water", "Earth"],
+        "description": "Golden Fortress",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_TentacleTurtle_Ground_icon_normal.png"
+    },
+    {
+        "id": 149,
+        "name": "Jellroy #149",
+        "type": ["Water", "Dark"],
+        "description": "Shade Drifter",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_JellyfishGhost_icon_normal.png"
+    },
+    {
+        "id": 150,
+        "name": "Jelliette #150",
+        "type": "Water",
+        "description": "Sunlight Drifter",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_JellyfishFairy_icon_normal.png"
+    },
+    {
+        "id": 151,
+        "name": "Gloopie #151",
+        "type": ["Water", "Dark"],
+        "description": "Trickster of the Sea",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_OctopusGirl_icon_normal.png"
+    },
+    {
+        "id": 152,
+        "name": "Finsider #152",
+        "type": "Water",
+        "description": "Eyes from the Abyss",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_StuffedShark_icon_normal.png"
+    },
+    {
+        "id": 15201,
+        "name": "Finsider Ignis #152B",
+        "type": ["Water", "Fire"],
+        "description": "Eyes from the Flames",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_StuffedShark_Fire_icon_normal.png"
+    },
+    {
+        "id": 153,
+        "name": "Ghangler #153",
+        "type": ["Dark", "Water"],
+        "description": "Temptation in the Deep",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_GhostAnglerfish_icon_normal.png"
+    },
+    {
+        "id": 15301,
+        "name": "Ghangler Ignis #153B",
+        "type": ["Fire", "Water"],
+        "description": "Longing in the Deep",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_GhostAnglerfish_Fire_icon_normal.png"
+    },
+    {
+        "id": 154,
+        "name": "Whalaska #154",
+        "type": ["Ice", "Water"],
+        "description": "Nice Ice Lance",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceNarwhal_icon_normal.png"
+    },
+    {
+        "id": 15401,
+        "name": "Whalaska Ignis #154B",
+        "type": ["Ice", "Fire"],
+        "description": "Nice Crimson Lance",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_IceNarwhal_Fire_icon_normal.png"
+    },
+    {
+        "id": 155,
+        "name": "Neptilius #155",
+        "type": "Water",
+        "description": "Legend of the Seas",
+        "image": "https://palworld.gg/_ipx/q_80&s_130x130/images/full_palicon/T_PoseidonOrca_icon_normal.png"
+    },
     {
 
     }
